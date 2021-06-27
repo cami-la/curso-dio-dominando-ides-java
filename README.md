@@ -28,41 +28,25 @@
 
 <h2> 📚 Ementa</h2>
 
-▪️ <strong> Instalação/Configuração do Java </strong>
-		   Um pouco da história do Java<br>
-		   Diferença entre JRE e JDK<br>
-		   Versões do Java<br>
-		   Se não existisse IDE?<br>
+<h3><strong>▪️ Instalação/Configuração do Java</strong></h3> 
 
-▪️ <strong> Ubuntu</strong>
-		   Instalação OpenJDK <br>
-		   Configuração de variável de ambiente<br>
-		   Instalação do Eclipse<br>
-		   Configurando o ícone no Dock<br>
-		   Instalação do IntelliJ<br>
+✅ Um pouco da história do Java<br>✅ Diferença entre JRE e JDK<br>✅ Versões do Java<br>
+✅ Se não existisse IDE?<br>
 
-▪️ <strong> Windows</strong>
-		   Instalação OpenJDK<br>
-		   Configuração de variável de ambiente<br>
-		   Instalação do Eclipse<br>
-		   Instalação do IntelliJ<br>
+<h3><strong> ▪️ Ubuntu</strong></h3>
+✅ Instalação OpenJDK <br>✅ Configuração de variável de ambiente<br>✅ Instalação do Eclipse<br>✅ Configurando o ícone no Dock<br>✅ Instalação do IntelliJ<br>
 
-▪️ <strong> IntelliJ </strong>
-		   Diferenças entre versões<br>
-		   Conhecendo um pouco por dentro da IDE<br>
-		   Criando seu primeiro projeto Java no IntelliJ<br>
-		   Atalhos e Produtividade<br>
-		   Conectar seu projeto no GitHub<br>
+<h3><strong> ▪️ Windows</strong></h3>
+✅ Instalação OpenJDK<br>✅ Configuração de variável de ambiente<br>✅ Instalação do Eclipse<br>✅ Instalação do IntelliJ<br>
 
-▪️ <strong> Eclipse </strong>
-		   Diferenças entre versões<br>
-		   Conhecendo um pouco por dentro da IDE<br>
-		   Criando seu primeiro projeto Java no IntelliJ<br>
-		   Atalhos e Produtividade<br>
-		   Conectar seu projeto no GitHub<br>
+<h3><strong> ▪️ IntelliJ </strong></h3>
+✅ Diferenças entre versões<br>✅ Conhecendo um pouco por dentro da IDE<br>✅ Criando seu primeiro projeto Java no IntelliJ<br>✅ Atalhos e Produtividade<br>✅ Conectar seu projeto no GitHub<br>
 
-▪️ <strong> Outras Alternativas </strong>
-		   Visual Studio Code<br>
+<h3><strong> ▪️ Eclipse </strong></h3>
+✅ Diferenças entre versões<br>✅ Conhecendo um pouco por dentro da IDE<br>✅ Criando seu primeiro projeto Java no IntelliJ<br>✅ Atalhos e Produtividade<br>✅ Conectar seu projeto no GitHub<br>
+
+<h3><strong> ▪️ Outras Alternativas </strong></h3>
+✅ Visual Studio Code<br>
 
 
 
