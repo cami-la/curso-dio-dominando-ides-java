@@ -2,9 +2,6 @@
 
 <p> Sejam bem-vindos ao curso <strong>DOMINANDO IDEs JAVA</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://web.digitalinnovation.one/"><strong> Digital Innovation One</a></strong>. 🧡💛<br>
 
-​    
-
-
 <h2> 🚦 Guia </h2>
 
 <p>
@@ -47,7 +44,6 @@
 
 <h3><strong> ▪️ Outras Alternativas </strong></h3>
 ✅ Visual Studio Code<br>
-
 
 
 <h2><strong> 🐧 LINUX</h2></strong>
