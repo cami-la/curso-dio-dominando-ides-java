@@ -29,10 +29,10 @@
 <h2> 📚 Ementa</h2>
 
 ▪️ <strong> Instalação/Configuração do Java </strong>
-		Um pouco da história do Java
-		Diferença entre JRE e JDK
-		Versões do Java
-		Se não existisse IDE?
+		Um pouco da história do Java<br>
+		Diferença entre JRE e JDK<br>
+		Versões do Java<br>
+		Se não existisse IDE?<br>
 
 ▪️ <strong> Ubuntu</strong>
 		Instalação OpenJDK
