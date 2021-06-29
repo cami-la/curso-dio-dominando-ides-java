@@ -25,7 +25,7 @@
 
 <h2> 📚 Ementa</h2>
 
-<h3><strong>▪️ Instalação/Configuração do Java</strong></h3> 
+<h3><strong>▪️ Instalação/Configuração do Java</strong></h3>
 
 ✅ Um pouco da história do Java<br>✅ Diferença entre JRE e JDK<br>✅ Versões do Java<br>
 ✅ Se não existisse IDE?<br>
@@ -52,7 +52,7 @@
 
 <em><strong>O OpenJDK (Kit de Desenvolvimento Java Aberto)</strong> é uma  implementação gratuita e de código aberto da linguagem de programação  Java.  A implementação está licenciada sob a GNU General Public License  (GPL) com uma exceção de vinculação. <strong>JDK = JRE + JVM</strong></em>
 
-🔸 <strong>1.</strong> Abra o terminal (Ctrl + Alt) e vamos verificar se temos o Java instalado:
+🔸 <strong>1.</strong> Abra o terminal (Ctrl + Alt + t) e vamos verificar se temos o Java instalado:
 
 ```
 java -version
@@ -154,26 +154,26 @@ java --version
 
 <h3>🔺 Instalação IntelliJ IDEA Community </h3>
 
-🔹 <strong>1.</strong> Entre no site ofical do <a href="https://www.jetbrains.com/idea/download/#section=windows"><strong>INTELLIJ</strong></a>
+🔸 <strong>1.</strong> Entre no site ofical do <a href="https://www.jetbrains.com/idea/download/#section=windows"><strong>INTELLIJ</strong></a>
 
-🔹 <strong>2.</strong> Escolha a opção Community e faça o download 
+🔸 <strong>2.</strong> Escolha a opção Community e faça o download 
 
-🔹 <strong>3.</strong> Descompacte a pasta e vamos para o terminal
+🔸 <strong>3.</strong> Descompacte a pasta e vamos para o terminal
 
-🔹 <strong>4.</strong> Abra o terminal (Ctrl + Alt +  t) e entre no diretório que você descompactou 
+🔸 <strong>4.</strong> Abra o terminal (Ctrl + Alt +  t) e entre no diretório que você descompactou 
 <em>No meu caso, na pasta Downloads Ideal</em>
 
 ```
 cd Downloads/IdealC
 ```
 
-🔹<strong>5.</strong> Entre na pasta bin
+🔸 <strong>5.</strong> Entre na pasta bin
 
 ```
 cd bin
 ```
 
-🔹<strong>6.</strong> Execute o arquivo de instalação idea.sh
+🔸 <strong>6.</strong> Execute o arquivo de instalação idea.sh
 
 ```
 ./idea.sh
@@ -182,6 +182,45 @@ cd bin
 
 
 <h3>🔺 Instalação Git </h3>
+
+🔸 <strong>1.</strong> Abra o terminal (Ctrl + Alt + t) e vamos verificar se temos o git instalado:
+
+```
+git --version
+```
+
+
+
+
+
+🔸<strong>8.</strong> Confirme se o git realmente está instalado:
+
+```
+git --version
+```
+
+🔸 <strong>9.</strong> Vamos começar as configurações iniciais:
+
+​	<strong>9.1</strong> Cofigurar o nome de usuário
+
+```
+git config --global user.name "Seu nome"
+```
+
+​	<strong>9.2</strong> Configurar o endereço de e-mail:
+​	<em>É de suma importância que o ENDEREÇO DE E-MAIL SEJA O MESMO DO GITHUB afim de evitar conflitos!</em>
+
+```
+git config --global user.email seuemail@email.br
+```
+
+​	<strong>9.3</strong> Vamos conferir a lista de configurações:
+
+```
+git config --list
+```
+
+🔸 <strong>10.</strong> Pronto, git instalado e configurado com sucesso!
 
 
 
