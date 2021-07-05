@@ -2,6 +2,7 @@
 
 <p> Sejam bem-vindos ao curso <strong>DOMINANDO IDEs JAVA</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://web.digitalinnovation.one/"><strong> Digital Innovation One</a></strong>. 🧡💛<br>
 
+
 <h2> 🚦 Guia </h2>
 
 <p>
@@ -17,6 +18,7 @@
 🛑 Pré-requistos
 </h2>
 
+
 - [x] Sistema operacional (Windows e/ou Linux)
 
 - [x] Conta no GitHub
@@ -31,19 +33,26 @@
 ✅ Se não existisse IDE?<br>
 
 <h3><strong> ▪️ Ubuntu</strong></h3>
+
 ✅ Instalação OpenJDK <br>✅ Configuração de variável de ambiente<br>✅ Instalação do Eclipse<br>✅ Configurando o ícone no Dock<br>✅ Instalação do IntelliJ<br>
 
 <h3><strong> ▪️ Windows</strong></h3>
+
 ✅ Instalação OpenJDK<br>✅ Configuração de variável de ambiente<br>✅ Instalação do Eclipse<br>✅ Instalação do IntelliJ<br>
 
 <h3><strong> ▪️ IntelliJ </strong></h3>
+
 ✅ Diferenças entre versões<br>✅ Conhecendo um pouco por dentro da IDE<br>✅ Criando seu primeiro projeto Java no IntelliJ<br>✅ Atalhos e Produtividade<br>✅ Conectar seu projeto no GitHub<br>
 
 <h3><strong> ▪️ Eclipse </strong></h3>
+
 ✅ Diferenças entre versões<br>✅ Conhecendo um pouco por dentro da IDE<br>✅ Criando seu primeiro projeto Java no IntelliJ<br>✅ Atalhos e Produtividade<br>✅ Conectar seu projeto no GitHub<br>
 
 <h3><strong> ▪️ Outras Alternativas </strong></h3>
+
 ✅ Visual Studio Code<br>
+
+<br><br>
 
 
 <h2><strong> 🐧 LINUX</h2></strong>
@@ -121,7 +130,7 @@ java --version
 
 <p align="right"><em>Créditos: <a href="https://www.youtube.com/watch?v=jARiy3DZdwg">DevSuperior</a></em></p>
 
-
+<br>
 
 <h3>🔺 Instalação Eclipse </h3>
 
@@ -146,11 +155,11 @@ java --version
 
 🔸 <strong>10.</strong> Pronto, intalação concluída!
 
-
+<br>
 
 <h3>🔺 Configurando o ícone do Eclipse IDE no Dock </h3>
 
-
+<br>
 
 <h3>🔺 Instalação IntelliJ IDEA Community </h3>
 
@@ -179,7 +188,7 @@ cd bin
 ./idea.sh
 ```
 
-
+<br>
 
 <h3>🔺 Instalação Git </h3>
 
@@ -189,42 +198,42 @@ cd bin
 git --version
 ```
 
+🔸 <strong>2.</strong> Execute o comando:
 
+```
+sudo apt-get install git-all
+```
 
-
-
-🔸<strong>8.</strong> Confirme se o git realmente está instalado:
+🔸<strong>3.</strong> Confirme novamente se o git realmente está instalado:
 
 ```
 git --version
 ```
 
-🔸 <strong>9.</strong> Vamos começar as configurações iniciais:
+🔸 <strong>4.</strong> Vamos começar as configurações iniciais:
 
-​	<strong>9.1</strong> Cofigurar o nome de usuário
+​	<strong>4.1</strong> Cofigurar o nome de usuário
 
 ```
 git config --global user.name "Seu nome"
 ```
 
-​	<strong>9.2</strong> Configurar o endereço de e-mail:
+​	<strong>4.2</strong> Configurar o endereço de e-mail:
 ​	<em>É de suma importância que o ENDEREÇO DE E-MAIL SEJA O MESMO DO GITHUB afim de evitar conflitos!</em>
 
 ```
 git config --global user.email seuemail@email.br
 ```
 
-​	<strong>9.3</strong> Vamos conferir a lista de configurações:
+​	<strong>4.3</strong> Vamos conferir a lista de configurações:
 
 ```
 git config --list
 ```
 
-🔸 <strong>10.</strong> Pronto, git instalado e configurado com sucesso!
+🔸 <strong>5.</strong> Pronto, git instalado e configurado com sucesso!
 
-
-
-
+<br><br>
 
 <h2><strong>🪟 WINDOWS</h2></strong>
 
@@ -276,7 +285,7 @@ java -version
 
 <p align="right"><em>Créditos: <a href="https://www.youtube.com/watch?v=laC0fiI-IOM">DevSuperior</a></em></p>
 
-
+<br>
 
 <h3>🔺 Instalação Eclipse </h3>
 
@@ -298,7 +307,7 @@ java -version
 
 🔹 <strong>9.</strong> Pronto, intalação concluída
 
-
+<br>
 
 <h3>🔺 Instalação IntelliJ IDEA Community </h3>
 
@@ -327,7 +336,7 @@ java -version
 
 🔹<strong>8.</strong> IDE pronta para uso!
 
-
+<br>
 
 <h3>🔺 Instalação Git </h3>
 
@@ -353,7 +362,7 @@ git --version
 
 🔹<strong>9.</strong> Vamos começar as configurações iniciais:
 
-​	<strong>9.1</strong> Cofigurar o nome de usuário
+​	<strong>9.1</strong> Configurar o nome de usuário
 
 ```
 git config --global user.name "Seu nome"
@@ -374,7 +383,7 @@ git config --list
 
 🔹<strong>10.</strong> Pronto, git instalado e configurado com sucesso!
 
-
+<br><br>
 
 <h2> 🤝 Contribuindo </h2>
 
