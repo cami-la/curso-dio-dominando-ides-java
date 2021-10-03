@@ -61,7 +61,7 @@
 
 <em><strong>O OpenJDK (Kit de Desenvolvimento Java Aberto)</strong> é uma  implementação gratuita e de código aberto da linguagem de programação  Java.  A implementação está licenciada sob a GNU General Public License  (GPL) com uma exceção de vinculação. <strong>JDK = JRE + JVM</strong></em>
 
-🔸 <strong>1.</strong> Abra o terminal (Ctrl + Alt + t) e vamos verificar se temos o Java instalado:
+🔸 <strong>1.</strong> Abra o terminal e vamos verificar se temos o Java instalado:
 
 ```
 java -version
