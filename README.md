@@ -64,7 +64,7 @@
 🔸 <strong>1.</strong> Abra o terminal (Ctrl + Alt + t) e vamos verificar se temos o Java instalado:
 
 ```
-java -version
+java --version
 ```
 
 🔸 <strong>2.</strong> Para instalar o openJDK-11, digite no terminal:
@@ -77,7 +77,7 @@ sudo apt-get install openjdk-11-jdk
 🔸 <strong>3.</strong> Confirme se realmente foi instalado com sucesso:
 
 ```
-java -version
+java --version
 ```
 
 🔸<strong>4.</strong> Vamos configurar o ambiente JAVA_HOME:
