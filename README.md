@@ -2,8 +2,9 @@
 
 <p> Sejam bem-vindos ao curso <strong>DOMINANDO IDEs JAVA</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://web.digitalinnovation.one/"><strong> Digital Innovation One</a></strong>. 🧡💛<br>
 
-	<a href="https://www.youtube.com/watch?v=wcIm916zk9w&lc=UgwDmJkoCf5M9Pf66ll4AaABAg">Como criar um Access Token para se conectar com o GitHub</a>
-
+<div align="center">	
+▶️ <a href="https://www.youtube.com/watch?v=wcIm916zk9w&lc=UgwDmJkoCf5M9Pf66ll4AaABAg">Como criar um Access Token para se conectar com o GitHub</a></div>
+	
 <h2> 🚦 Guia </h2>
 
 <p>
