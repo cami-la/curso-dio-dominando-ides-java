@@ -295,7 +295,7 @@ java -version
 
 🔹 <strong>2.</strong> Fazer o download do instalador
 
-🔹 <strong>3.</strong> Escolha segunda a opção: Eclipse IDE for Enterprise Java and Web Developers
+🔹 <strong>3.</strong> Escolha segunda a opção: Eclipse IDE for Enterprise Java and Web Developers <a href="https://www.eclipse.org/downloads/packages/"><strong>Link de download para Windows</strong></a>
 
 🔹 <strong>4.</strong> Clique no folder da primeira opção (Java 11 + VM) e selecione o JDK que instalamos na nossa máquina
 
